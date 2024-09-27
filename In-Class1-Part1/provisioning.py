@@ -1,6 +1,6 @@
 """
-Author1: Girisha Daggula
-Author2: Lalitha Sri Chennapragada
+Author1: Girisha Daggula(10097433)
+Author2: Lalitha Sri Chennapragada(100979071)
 Date: 27/09/2024
 Description: The following program imitates a cloud resource provisioning system. 
 The number of CPU cores and the amount of memory required in GB will be provided by the user.
